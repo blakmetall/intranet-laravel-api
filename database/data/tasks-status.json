@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "PENDING",
+    "slug": "pending"
+  },
+  {
+    "id": 2,
+    "name": "IN_PROGRESS",
+    "slug": "in-progress"
+  },
+  {
+    "id": 3,
+    "name": "REVIEW",
+    "slug": "review"
+  },
+  {
+    "id": 4,
+    "name": "FINISHED",
+    "slug": "finished"
+  },
+  {
+    "id": 5,
+    "name": "ARCHIVED",
+    "slug": "archived"
+  }
+]

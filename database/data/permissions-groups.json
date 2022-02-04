@@ -1,0 +1,149 @@
+[
+  {
+    "name": "HOTELS",
+    "slug": "admin/hotels",
+    "is_administrative_group": 1,
+    "permissions": [
+      {
+        "name": "HOTELS",
+        "slug": "/admin/hotels"
+      }
+    ]
+  },
+  {
+    "name": "COMPANIES",
+    "slug": "admin/companies",
+    "is_administrative_group": 1,
+    "permissions": [
+      {
+        "name": "COMPANIES",
+        "slug": "/admin/companies"
+      }
+    ]
+  },
+  {
+    "name": "BRANDSITE",
+    "slug": "admin/brandsite",
+    "is_administrative_group": 1,
+    "permissions": [
+      {
+        "name": "CONTENTS",
+        "slug": "/admin/brandsite/contents"
+      },
+      {
+        "name": "SECTIONS",
+        "slug": "/admin/brandsite/sections"
+      },
+      {
+        "name": "BRANDSITE",
+        "slug": "/admin/brandsite"
+      }
+    ]
+  },
+  {
+    "name": "MAHGAZINE",
+    "slug": "admin/mahgazine",
+    "is_administrative_group": 1,
+    "permissions": [
+      {
+        "name": "EDITIONS",
+        "slug": "/admin/mahgazine/editions"
+      },
+      {
+        "name": "SECTIONS",
+        "slug": "/admin/mahgazine/sectios"
+      },
+      {
+        "name": "MAHGAZINE",
+        "slug": "/admin/mahgazine"
+      }
+    ]
+  },
+  {
+    "name": "QUALITY",
+    "slug": "admin/quality",
+    "is_administrative_group": 1,
+    "permissions": [
+      {
+        "name": "FILES",
+        "slug": "/admin/quality/files"
+      },
+      {
+        "name": "ASSURANCE_VISITS",
+        "slug": "/admin/quality/assurance-visits"
+      },
+      {
+        "name": "EXTENSION_REQUESTS",
+        "slug": "/admin/quality/extension-requests"
+      },
+      {
+        "name": "EXENSION_REQUESTS",
+        "slug": "/admin/quality/exension-requests"
+      },
+      {
+        "name": "QUALITY",
+        "slug": "/admin/quality"
+      }
+    ]
+  },
+  {
+    "name": "PUBLIC_QUALITY",
+    "slug": "quality",
+    "is_administrative_group": 0,
+    "permissions": [
+      {
+        "name": "FILES",
+        "slug": "/quality/files"
+      },
+      {
+        "name": "ASSURANCE_VISITS",
+        "slug": "/quality/assurance-visits"
+      },
+      {
+        "name": "EXTENSION_REQUESTS",
+        "slug": "/quality/extension-requests"
+      },
+      {
+        "name": "EXENSION_REQUESTS",
+        "slug": "/quality/exension-requests"
+      },
+      {
+        "name": "QUALITY",
+        "slug": "/quality"
+      }
+    ]
+  },
+  {
+    "name": "CALENDAR",
+    "slug": "calendar",
+    "is_administrative_group": 0,
+    "permissions": [
+      {
+        "name": "CALENDAR",
+        "slug": "/calendar"
+      }
+    ]
+  },
+  {
+    "name": "TASKS",
+    "slug": "tasks",
+    "is_administrative_group": 0,
+    "permissions": [
+      {
+        "name": "TASKS",
+        "slug": "/tasks"
+      }
+    ]
+  },
+  {
+    "name": "DIRECTORY",
+    "slug": "directory",
+    "is_administrative_group": 0,
+    "permissions": [
+      {
+        "name": "DIRECTORY",
+        "slug": "/directory"
+      }
+    ]
+  }
+]

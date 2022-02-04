@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "SUPER_ADMIN",
+    "slug": "super"
+  },
+  {
+    "id": 2,
+    "name": "ADMIN",
+    "slug": "admin"
+  },
+  {
+    "id": 3,
+    "name": "CORPORATIVE",
+    "slug": "corporative"
+  },
+  {
+    "id": 4,
+    "name": "REGULAR",
+    "slug": "regular"
+  }
+]

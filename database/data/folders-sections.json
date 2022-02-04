@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "MY_FILES",
+    "slug": "my-files"
+  },
+  {
+    "id": 2,
+    "name": "QUALITY_FILES",
+    "slug": "quality"
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "OTHER",
+        "slug": "other"
+    },
+    {
+        "id": 2,
+        "name": "HOTEL",
+        "slug": "hotel"
+    },
+    {
+        "id": 3,
+        "name": "ADVERTISING_AGENCY",
+        "slug": "advertising-agency"
+    },
+    {
+        "id": 4,
+        "name": "TRAVEL_AGENCY",
+        "slug": "travel-agency"
+    },
+    {
+        "id": 5,
+        "name": "TOUR_OPERATOR",
+        "slug": "tour-operator"
+    },
+    {
+        "id": 6,
+        "name": "PRESS",
+        "slug": "press"
+    }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "user_role_id": 1,
+    "email": "desarrollo@nivelcreativo.com",
+    "password": "123123",
+    "valid_email": 1,
+    "is_enabled": 1,
+    "profile": {
+      "name": "José",
+      "lastname": "Faro",
+      "full_name": "José Faro",
+      "job_title": "Programador",
+      "phone": "0000000",
+      "external_brandsite_enabled": 1,
+      "external_mahgazine_enabled": 1,
+      "is_directory_enabled": 0,
+      "use_local_timezone": 1
+    }
+  }
+]

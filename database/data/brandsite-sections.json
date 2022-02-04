@@ -1,0 +1,230 @@
+[
+  {
+    "name_en": "Logos",
+    "name_es": "Logos",
+    "slug": "logos",
+    "features": [
+      {
+        "name_en": "B/W",
+        "name_es": "B/N"
+      },
+      {
+        "name_en": "Color",
+        "name_es": "Color"
+      },
+      {
+        "name_en": "Editable",
+        "name_es": "Editable"
+      },
+      {
+        "name_en": "Horizontal",
+        "name_es": "Horizontal"
+      },
+      {
+        "name_en": "Hotel",
+        "name_es": "Hotel"
+      },
+      {
+        "name_en": "Consumption Center",
+        "name_es": "Centros de Consumo"
+      },
+      {
+        "name_en": "Corporate",
+        "name_es": "Corporativo"
+      },
+      {
+        "name_en": "Spa",
+        "name_es": "Spa"
+      }
+    ]
+  },
+  {
+    "name_en": "Pictures",
+    "name_es": "Imágenes",
+    "slug": "pictures",
+    "features": [
+      {
+        "name_en": "Rooms",
+        "name_es": "Habitaciones"
+      },
+      {
+        "name_en": "Pool",
+        "name_es": "Alberca"
+      },
+      {
+        "name_en": "Meetings",
+        "name_es": "Grupos"
+      },
+      {
+        "name_en": "Spa",
+        "name_es": "Spa"
+      },
+      {
+        "name_en": "Instalation",
+        "name_es": "Instalaciones"
+      },
+      {
+        "name_en": "Restaurants",
+        "name_es": "Restaurantes"
+      },
+      {
+        "name_en": "Bar",
+        "name_es": "Bar"
+      },
+      {
+        "name_en": "Services",
+        "name_es": "Servicios"
+      },
+      {
+        "name_en": "Lobby",
+        "name_es": "Lobby"
+      },
+      {
+        "name_en": "Gym",
+        "name_es": "Gimnasio"
+      },
+      {
+        "name_en": "Weddings",
+        "name_es": "Bodas"
+      },
+      {
+        "name_en": "Kids Club",
+        "name_es": "Club Infantil"
+      },
+      {
+        "name_en": "Beach",
+        "name_es": "Playa"
+      },
+      {
+        "name_en": "Destination",
+        "name_es": "Destino"
+      },
+      {
+        "name_en": "Models",
+        "name_es": "Modelos"
+      },
+      {
+        "name_en": "Activities",
+        "name_es": "Actividades"
+      }
+    ]
+  },
+  {
+    "name_en": "Multimedia",
+    "name_es": "Multimedia",
+    "slug": "multimedia",
+    "features": [
+      {
+        "name_en": "Video",
+        "name_es": "Video"
+      },
+      {
+        "name_en": "Presentation",
+        "name_es": "Presentación"
+      },
+      {
+        "name_en": "Spanish",
+        "name_es": "Español"
+      },
+      {
+        "name_en": "English",
+        "name_es": "Inglés"
+      }
+    ]
+  },
+  {
+    "name_en": "Communication",
+    "name_es": "Comunicación",
+    "slug": "communication",
+    "features": [
+      {
+        "name_en": "Factsheet",
+        "name_es": "Factsheet"
+      },
+      {
+        "name_en": "Bochure",
+        "name_es": "Folleto"
+      },
+      {
+        "name_en": "Spanish",
+        "name_es": "Español"
+      },
+      {
+        "name_en": "English",
+        "name_es": "Inglés"
+      },
+      {
+        "name_en": "Presentation",
+        "name_es": "Presentación"
+      },
+      {
+        "name_en": "Shell",
+        "name_es": "Shell"
+      }
+    ]
+  },
+  {
+    "name_en": "Typographies",
+    "name_es": "Tipografías",
+    "slug": "typographies",
+    "features": [
+      {
+        "name_en": "Windows",
+        "name_es": "Windows"
+      },
+      {
+        "name_en": "Mac",
+        "name_es": "Mac"
+      }
+    ]
+  },
+  {
+    "name_en": "Weddings",
+    "name_es": "Bodas",
+    "slug": "weddings",
+    "features": [
+      {
+        "name_en": "English",
+        "name_es": "Inglés"
+      },
+      {
+        "name_en": "Spanish",
+        "name_es": "Español"
+      }
+    ]
+  },
+  {
+    "name_en": "Groups",
+    "name_es": "Grupos",
+    "slug": "groups",
+    "features": [
+      {
+        "name_en": "English",
+        "name_es": "Inglés"
+      },
+      {
+        "name_en": "Spanish",
+        "name_es": "Español"
+      }
+    ]
+  },
+  {
+    "name_en": "Manuals",
+    "name_es": "Manuales",
+    "slug": "manuals",
+    "features": [
+      {
+        "name_en": "Brand",
+        "name_es": "Marca"
+      },
+      {
+        "name_en": "English",
+        "name_es": "Inglés"
+      },
+      {
+        "name_en": "Spanish",
+        "name_es": "Español"
+      }
+    ]
+  }
+]

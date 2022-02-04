@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "SMALL",
+    "slug": "small",
+    "width": "500",
+    "height": "333",
+    "fit": 1
+  },
+  {
+    "id": 2,
+    "name": "SMALL_SQUARE",
+    "slug": "small-square",
+    "width": "500",
+    "height": "500",
+    "fit": 1
+  },
+  {
+    "id": 3,
+    "name": "MEDIUM",
+    "slug": "medium",
+    "width": "800",
+    "height": "533",
+    "fit": 1
+  },
+  {
+    "id": 4,
+    "name": "SD",
+    "slug": "sd",
+    "width": "720",
+    "height": "576",
+    "fit": 0
+  },
+  {
+    "id": 5,
+    "name": "HD",
+    "slug": "hd",
+    "width": "1280",
+    "height": "720",
+    "fit": 0
+  },
+  {
+    "id": 6,
+    "name": "Full HD",
+    "slug": "full-hd",
+    "width": "1920",
+    "height": "1080",
+    "fit": 0
+  },
+  {
+    "id": 7,
+    "name": "UHD",
+    "slug": "uhd",
+    "width": "3840",
+    "height": "2160",
+    "fit": 0
+  },
+  {
+    "id": 8,
+    "name": "4K",
+    "slug": "4k",
+    "width": "4096",
+    "height": "2160",
+    "fit": 0
+  },
+  {
+    "id": 9,
+    "name": "8K",
+    "slug": "8k",
+    "width": "7680",
+    "height": "4320",
+    "fit": 0
+  },
+  {
+    "id": 10,
+    "name": "LANDSCAPE",
+    "slug": "landscape",
+    "width": "800",
+    "height": "350",
+    "fit": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "SCHEDULED",
+    "slug": "scheduled"
+  },
+  {
+    "id": 2,
+    "name": "IN_PROCESS",
+    "slug": "in-process"
+  },
+  {
+    "id": 3,
+    "name": "WAITING_FOR_PA",
+    "slug": "waiting-for-pa"
+  },
+  {
+    "id": 4,
+    "name": "CLOSED",
+    "slug": "closed"
+  },
+  {
+    "id": 5,
+    "name": "TO_PUBLISH",
+    "slug": "to-publish"
+  }
+]
